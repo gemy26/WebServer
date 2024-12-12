@@ -19,3 +19,4 @@ C:\Users\ag088\RiderProjects\WebServer\WebServer\bin\Debug\net8.0\System.Text.Js
 C:\Users\ag088\RiderProjects\WebServer\WebServer\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\ag088\RiderProjects\WebServer\WebServer\obj\Debug\net8.0\WebServer.csproj.AssemblyReference.cache
 C:\Users\ag088\RiderProjects\WebServer\WebServer\obj\Debug\net8.0\WebServer.csproj.Up2Date
+C:\Users\ag088\RiderProjects\WebServer\WebServer\obj\Debug\net8.0\WebServer.sourcelink.json
