@@ -38,8 +38,8 @@ The project consists of the following files:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/gemy26/WebServer.git)
-   cd [<repository-directory>](https://github.com/gemy26/WebServer.git)
+   git clone <repository-url>
+   cd <repository-directory>
    ```
 2. Open the project in your preferred IDE.
 3. Build the project to restore dependencies and compile the code:
